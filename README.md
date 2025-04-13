@@ -1,4 +1,4 @@
-# プロジェクト名
+# techbookfest18-example
 
 ## 概要
 このリポジトリでは、[Tanstack Query](https://tanstack.com/query/latest/docs/framework/react/overview) のサンプルコードをまとめています。
